@@ -5,6 +5,7 @@
 * 配置安装所需要的库/框架
 ```
 npm install
+bower install fs
 ```
 * 实施监控：
  ```
