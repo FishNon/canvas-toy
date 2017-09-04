@@ -9,7 +9,7 @@ router.get('/', function (req, res, next) {
         if (err) {
             console.log(err);
         } else {
-            res.render('index', {title: 'Passionate Music', music: names});
+            res.render('index', {title: 'Music', music: names});
         }
     });
 });

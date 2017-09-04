@@ -7,7 +7,7 @@
 npm install
 bower install fs
 ```
-* 实施监控：
+* 实施监控（运行）：
  ```
    supervisor bin/www
  ```
